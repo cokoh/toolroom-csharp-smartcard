@@ -1,0 +1,9 @@
+C:\Users\SASMOADM\Documents\TracsSmartCard\bin\Debug\netstandard2.0\TracsSmartCard.deps.json
+C:\Users\SASMOADM\Documents\TracsSmartCard\bin\Debug\netstandard2.0\TracsSmartCard.dll
+C:\Users\SASMOADM\Documents\TracsSmartCard\bin\Debug\netstandard2.0\TracsSmartCard.pdb
+C:\Users\SASMOADM\Documents\TracsSmartCard\obj\Debug\netstandard2.0\TracsSmartCard.csprojAssemblyReference.cache
+C:\Users\SASMOADM\Documents\TracsSmartCard\obj\Debug\netstandard2.0\TracsSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\SASMOADM\Documents\TracsSmartCard\obj\Debug\netstandard2.0\TracsSmartCard.AssemblyInfoInputs.cache
+C:\Users\SASMOADM\Documents\TracsSmartCard\obj\Debug\netstandard2.0\TracsSmartCard.AssemblyInfo.cs
+C:\Users\SASMOADM\Documents\TracsSmartCard\obj\Debug\netstandard2.0\TracsSmartCard.dll
+C:\Users\SASMOADM\Documents\TracsSmartCard\obj\Debug\netstandard2.0\TracsSmartCard.pdb
